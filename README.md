@@ -1,2 +1,2 @@
-# image-object-detection
-CNN models for object detection
+# Image object detection
+Test CNN models for image / video object detection tasks.
